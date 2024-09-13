@@ -1,0 +1,2 @@
+# CompileFlags:                     # Tweak the parse settings
+#   Add: [-DDEBUG]             # treat all files as C++, enable more warnings
